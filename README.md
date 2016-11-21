@@ -4,13 +4,15 @@ I have used a multi layer Convolutional Neural Network for classification of
 Devanagri characters using Tensorflow framework
 
 
-Data
+Data:
 
 No of classes=104
+
 Format=PNG Image
 
 Command to run the model:
-python run_model.py
+
+python run_model.py path_to_image1 path_to_image2 .....
 
 Results:
 
